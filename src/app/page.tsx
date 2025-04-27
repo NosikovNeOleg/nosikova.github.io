@@ -12,7 +12,7 @@ export default function Home() {
         <div className="relative">
           <div className="w-64 h-64 rounded-t-full overflow-hidden shadow-xl">
             <img
-              src="../../public/vv.png"
+              src="/vv.png"
               alt="Beautiful Wife"
               className="w-full h-full object-cover"
             />
